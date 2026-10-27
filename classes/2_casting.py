@@ -1,0 +1,21 @@
+# casting
+'''
+a=int(23)
+b=float(23)
+c=int("23")
+d=int(23.00)
+print(a)
+print(b)
+print(d)
+print(c)
+'''
+'''
+a=float("23.45")
+b=float("23")
+c=float(45.889)
+d=float(2)
+print(a)
+print(b)
+print(d)
+print(c)
+'''
